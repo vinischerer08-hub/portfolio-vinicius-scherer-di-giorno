@@ -57,6 +57,8 @@ Atualmente cursando o 1º período de Análise e Desenvolvimento de Sistemas na 
 | **Traduzindo Lógica para Python** |  | [Ver Projeto](./traduzindo_logica_para_python/) |
 | **Engenharia de Contexto e Logística Fisica** | Aplicação aos conceitos de Listas, Estruturas de Repetição (for, while), Estruturas de Decisão (if/else, match-case), Funções e Operadores Complexos na resolução de problemas do mundo real, exigindo coleta de dados manual e mapeamento espacial.. | [Ver Projeto](./engenharia_de_contexto_e_logistica_fisica/) |
 | **Desenhando Emojis com Dados** | Manipular listas, tuplas e dicionários usando loops aninhados para criar e modificar a "arte" de um emoji. | [Ver Projeto](./desenho_emojis_com_dados/) |
+| **Sistema de Auditoria de Recursos Corporativos** | Você foi contratado como Desenvolvedor(a) Backend por uma grande multinacional. A empresa possui uma estrutura organizacional complexa e dinâmica, onde departamentos possuem sub-departamentos, que por sua vez possuem equipes, e assim por diante (uma estrutura de árvore com profundidade desconhecida).
+O setor financeiro exportou os dados de orçamento de todos os setores no formato de um grande dicionário aninhado (simulando um JSON). Sua missão é criar um script em Python que calcule o orçamento total da empresa, mas com regras estritas de auditoria e flexibilidade de parâmetros. | [Ver Projeto](./Sistemas_de_auditoria_de_recursos_corporativos/) |
 
  
 ---
