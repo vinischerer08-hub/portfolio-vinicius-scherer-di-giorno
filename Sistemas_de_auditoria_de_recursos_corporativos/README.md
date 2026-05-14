@@ -48,7 +48,7 @@ Essa estrutura foi escolhida porque facilita o uso da recursão e deixa o sistem
 
 ## 👤 Autor
 
-* **Vinicius Scherer Di Giorno** * LinkedIn: 
+* **Vinicius Scherer Di Giorno** * LinkedIn: https://www.linkedin.com/in/vinicius-scherer-di-giorno-81932b332
 * E-mail: viniempresarial08@gmail.com
 
 ---
